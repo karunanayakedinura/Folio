@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <title>Port Folio Dinura Karunanayake</title>
+    </head>
+
+    <body>
+		<button class="button button3">Accueil</button>
+		<a href = "CV.html" <button class="button button1">CV</button></a>
+		<a href = "Projet.html" <button class="button button2">Projets</button></a>
+    <a href = "Stage1erAnnee.html" <button class="button button4">Stage 1er Annee</button></a>
+    <a href = "Stage2erAnnee.html" <button class="button button5">Stage 2eme Annee</button></a>
+    <h1>Voici les différents projets que j ai fais lors de ma deuxieme annee de stage.</h1>
+    <h1>Refonte globale du site de l'entreprise</h1>
+    <h1>Création et Diffusion d'une newletter</h1>
+    </body>
+</html>
