@@ -108,24 +108,24 @@ a
   color: white;
 }
 
-.button4 {
+.bouton4 {
   background-color: white; 
   color: black; 
   border: 2px solid #4CAF50;
 }
 
-.button4:hover {
+.bouton4:hover {
   background-color: #4CAF50;
   color: white;
 }
 
-.button5 {
+.bouton5 {
   background-color: white; 
   color: black; 
   border: 2px solid #4CAF50;
 }
 
-.button5:hover {
+.bouton5:hover {
   background-color: #4CAF50;
   color: white;
 }
