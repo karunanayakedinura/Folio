@@ -111,21 +111,21 @@ a
 .bouton4 {
   background-color: white; 
   color: black; 
-  border: 2px solid #FF6C00;
+  border: 2px solid orange;
 }
 
 .bouton4:hover {
-  background-color: #FF6C00;
+  background-color: orange;
   color: white;
 }
 
 .bouton5 {
   background-color: white; 
   color: black; 
-  border: 2px solid #8000FF;
+  border: 2px solid grey;
 }
 
 .bouton5:hover {
-  background-color: #8000FF;
+  background-color: grey;
   color: white;
 }
