@@ -106,6 +106,7 @@ a
 .button3:hover {
   background-color: red;
   color: white;
+}
 
 .button4 {
   background-color: white; 
@@ -116,6 +117,7 @@ a
 .button4:hover {
   background-color: orange;
   color: white;
+}
 
 .button5 {
   background-color: white; 
@@ -126,4 +128,4 @@ a
 .button5:hover {
   background-color: purple;
   color: white;
-	
+}	
