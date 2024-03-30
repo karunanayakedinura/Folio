@@ -117,7 +117,14 @@ a
 }
 
 .dk {
-   height:500px;
-   width:500px;
-   position: right; 
+  width: 300px;
+  height: 300px;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 25px;
+  cursor: pointer;
 }
